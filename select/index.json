@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Good Life",
+  "base_artist": "She's",
+  "createdAt": "2026-03-16T05:00:37.867147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/01_Good_Life_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/02_Good_Life_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/03_Good_Life_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Life Freestyle",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/04_Good_Life_Freestyle_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ain't No Good Life",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/05_Ain't_No_Good_Life_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Good Life",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/06_The_Good_Life_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LaLaLa It's The Good Life",
+      "artist": "Audiobooks",
+      "has_synced": false,
+      "path": "select/07_LaLaLa_It's_The_Good_Life_Audiobooks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Good Life",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/08_The_Good_Life_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Inner City",
+      "has_synced": false,
+      "path": "select/09_Good_Life_Inner_City.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Good Life",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/10_The_Good_Life_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Good Life",
+      "artist": "The New Power Generation",
+      "has_synced": false,
+      "path": "select/11_The_Good_Life_The_New_Power_Generation.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Good Life",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/12_The_Good_Life_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Life (Live)",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/13_Good_Life_(Live)_Kanye_West.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kanye West feat. T-Pain",
+      "has_synced": true,
+      "path": "select/14_Good_Life_Kanye_West_feat._T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Life (feat. T-Pain)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/15_Good_Life_(feat._T-Pain)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bright Lights (Good Life), Pt. II",
+      "artist": "Tinchy Stryder feat. Pixie Lott",
+      "has_synced": true,
+      "path": "select/16_Bright_Lights_(Good_Life),_Pt._II_Tinchy_Stryder_feat._Pixie_Lott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bright Lights (Good Life), Pt. II [feat. Pixie Lott]",
+      "artist": "Tinchy Stryder",
+      "has_synced": true,
+      "path": "select/17_Bright_Lights_(Good_Life),_Pt._II_[feat._Pixie_Lott]_Tinchy_Stryder.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Life - Demolition Crew Remix",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/18_Good_Life_-_Demolition_Crew_Remix_OneRepublic.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Good Life (Demolition Crew Remix)",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/19_Good_Life_(Demolition_Crew_Remix)_OneRepublic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Life",
+      "artist": "SHE'S",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Life_SHE'S.txt"
+    }
+  ]
+}
